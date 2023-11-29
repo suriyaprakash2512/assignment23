@@ -1,0 +1,7 @@
+C:\Users\SuriyaPrakash\source\repos\day-18\Assignment-23\bin\Release\Assignment-23.exe.config
+C:\Users\SuriyaPrakash\source\repos\day-18\Assignment-23\bin\Release\Assignment-23.exe
+C:\Users\SuriyaPrakash\source\repos\day-18\Assignment-23\bin\Release\Assignment-23.pdb
+C:\Users\SuriyaPrakash\source\repos\day-18\Assignment-23\obj\Release\Assignment-23.csproj.AssemblyReference.cache
+C:\Users\SuriyaPrakash\source\repos\day-18\Assignment-23\obj\Release\Assignment-23.csproj.CoreCompileInputs.cache
+C:\Users\SuriyaPrakash\source\repos\day-18\Assignment-23\obj\Release\Assignment-23.exe
+C:\Users\SuriyaPrakash\source\repos\day-18\Assignment-23\obj\Release\Assignment-23.pdb
